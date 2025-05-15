@@ -1,0 +1,1 @@
+# wb_tenders_details
